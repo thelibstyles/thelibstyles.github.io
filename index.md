@@ -1,6 +1,6 @@
 # The libstyles ePort Folio
 
-## Hi and selcome :bowtie:
+Hi.
 
 wow, looks pretty empty, thanks for stopping by but i am gainfully employed at the moment.
 
