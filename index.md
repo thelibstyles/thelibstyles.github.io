@@ -8,6 +8,6 @@ when time allows i will drop content here, check out my projects on github.
 
 [GO TO MY GITHUB ](https://github.com/thelibstyles)
 
-[About me](aboutMe.htm)
+[About me](https://thelibstyles.github.io/aboutMe.html)
 
 See ya.
