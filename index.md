@@ -1,13 +1,18 @@
-# The libstyles ePort Folio
+# Hi there 👋,
+## My name is Adam AKA thelibstyles. I am a 🤓 librarian, programmer ⌨️, digital creator 🎨 and cat dad 😻. 
 
-Hi.
+### Things i am into at the moment:
+* Gatsby JS https://www.gatsbyjs.com/
+* Vue 2, two way binding to create silly fun web forms
+* Wordpress themes with custom CSS + JS Libraries
+* CSS animation using custom vectors
+* Python automotion using standard libraries
 
-wow, looks pretty empty, thanks for stopping by but i am gainfully employed at the moment.
-
-when time allows i will drop content here, check out my projects on github.
+Check out my projects on github and fork them like nice piece of chocolate cake 🍰
 
 [GO TO MY GITHUB ](https://github.com/thelibstyles)
 
-[About me](https://thelibstyles.github.io/aboutMe.html)
+If you are library programmer nerd like myself reach out and say hi! ,there might be a project we could co-lab on. ☕☕☕
 
-See ya.
+Have an awesome day. 
+See ya. 😀
