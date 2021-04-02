@@ -8,7 +8,7 @@
 * CSS animation using custom vectors
 * Python automation using standard libraries
 
-Check out my projects on github and fork them like nice piece of chocolate cake 🍰
+Check out my projects on github and fork them like a nice piece of chocolate cake 🍰
 
 [GO TO MY GITHUB ](https://github.com/thelibstyles)
 
