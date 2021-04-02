@@ -6,7 +6,7 @@
 * Vue 2, two way binding to create silly fun web forms
 * Wordpress themes with custom CSS + JS Libraries
 * CSS animation using custom vectors
-* Python automotion using standard libraries
+* Python automation using standard libraries
 
 Check out my projects on github and fork them like nice piece of chocolate cake 🍰
 
